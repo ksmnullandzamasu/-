@@ -7,7 +7,7 @@ const http = require('http');
 const server = http.createServer(app);
 
 const tokens = [
-  'MTI1NzYxNDk1Mjk2MTY3MTE3MA.GYTwIu.m7oJN-EQzRaZdPLqFQfdkdFuNQJyFmSd90-sOs'
+  'MTI1NzYxNDk1Mjk2MTY3MTE3MA.Ght6CY.JWr4ukpqbM6jJZNO9TSZfkHbj9z921BesCU6nA'
 ];
 
 const payload = {
